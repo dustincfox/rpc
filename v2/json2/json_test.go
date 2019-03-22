@@ -14,7 +14,7 @@ import (
 
 	"strings"
 
-	"github.com/gorilla/rpc/v2"
+	"github.com/dustincfox/rpc/v2"
 )
 
 // ResponseRecorder is an implementation of http.ResponseWriter that

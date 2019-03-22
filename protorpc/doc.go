@@ -10,8 +10,8 @@ To register the codec in a RPC server:
 
 	import (
 		"http"
-		"github.com/gorilla/rpc"
-		"github.com/gorilla/rpc/protorpc"
+		"github.com/dustincfox/rpc"
+		"github.com/dustincfox/rpc/protorpc"
 	)
 
 	func init() {
